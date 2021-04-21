@@ -1,4 +1,8 @@
 ## Basic Banking System
+
+Live site is running on :- https://basic-banking-system.netlify.app/
+Frontend Code is here :-https://github.com/prp2606/BasicBankingSystem-Frontend/
+
 Welcome! This website is the Basic Banking System, developed to showcase the basic working of customers and transactions management.
 
 Work Flow - Home Page → View All Customers → Select and View One Customer → Transfer Money → Select Customer To Transfer → View All Customers
@@ -11,4 +15,3 @@ In transaction page, you have to fill the transaction amount, select the benefic
 
 All use cases are covered and implemented for doing transaction. Eg: Transaction amount = 0 is not allowed, Transaction in same customer's account is not allowed, Transaction with invalid ADMIN CODE is not allowed, Amount to be transferred cannot be greater than current balance etc.
 
-Live site is running on :- https://basic-banking-system.netlify.app/
